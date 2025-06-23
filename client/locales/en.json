@@ -1,0 +1,95 @@
+{
+    "my-weed":"My Weed",
+
+    "login":{
+        "title":"Login",
+        "email-or-username":"Adresse mail ou identifiant :",
+        "password-field":"Mot de passe :",
+        "no-account":"Vous n’avez pas de compte ? S’inscrire",
+        "forgotten-password":"J’ai oublié mon mot de passe",
+        "error":"Identifiant ou mot de passe invalide."
+    },
+
+    "sign-in":{
+        "title":"S'inscrire",
+        "already-account":"Vous avez déjà un compte ? Se connecter",
+        "email-field":"Adresse email :",
+        "username-field":"Identifiant :",
+        "confirm-password-field":"Confirmer le mot de passe :",
+        "error":"Création du compte impossible",
+        "email-already-use":"Cet email est déjà utilisée",
+        "username-already-use":"Cet identifiant est déjà utilisée",
+        "password-error":"Les mots de passe sont différents"
+    },
+
+    "forgot-password":{
+        "title":"Mot de pase oublié",
+        "email-sent":"Un email vous a été envoyé à l'adresse renseignée afin de réinitialiser votre mot de passe",
+        "error":"Cet email est associé à aucun compte"
+    },
+
+    "change-password":{
+        "title":"Nouveau mot de passe",
+        "error":"Modification de mot de passe impossible."
+    },
+
+    "nav":{
+        "home":"Accueil",
+        "shop":"Boutique",
+        "about":"A propos",
+        "faq":"FAQ",
+        "contact":"Contact",
+        "favorites":"Favoris",
+        "cart":"Panier",
+        "profile":"Profil"
+    },
+
+    "home":{
+        "shop":"Achetez de la qualité au meilleur prix",
+        "about":"En savoir plus sur nous et nos produits",
+        "faq":"Réponses aux questions récurrentes",
+        "contact":"Aidez-nous a nous améliorer !"
+    },
+
+    "shop":{
+        "slogan":"La meilleur qualité, aux meilleurs prix",
+        "products":"Produits",
+        "popular-products":"Produits populaires",
+        "products-description":"Nous avons plein de bonnes choses pour vous",
+        "search-product":"Rechercher un produit",
+
+        "filters":{
+            "weed":"Beuh",
+            "hash":"Haschich",
+            "ice-o-lator":"Ice O Lator",
+            "weed-flower":"Fleur de cannabis",
+            "traditional-hash":"Résine traditionnel",
+            "modern-hash":"Résine moderne"
+        }
+    },
+
+    "footer":{
+        "copyrights":"© Copyright 2025 - MyWeed. Tous droits reservés."
+    },
+
+    "product":{
+        "type":"{type} - {category}",
+        "price": "{price} €",
+        "unity":"/ gramme",
+        "price-with-unity":"({price}€ / gramme)",
+        "thc":"{count} {count, plural, =0 {THC : < 1%} other {THC : {count}%}}",
+        "cbd":"{count} {count, plural, =0 {CBD : < 1%} other {CBD : {count}%}}",
+        "add-to-cart":"Ajouter au panier",
+        "buy-now":"Commander maintenant",
+        "quantity-in-g":"Quantité (en gramme) :",
+        "free-delivery":"Livraison gratuite"
+    },
+
+    "commons":{
+        "total":"Total",
+        "description":"Description",
+        "disconnect":"Déconnexion",
+        "connect":"Connexion",
+        "validate":"Valider"
+    }
+}

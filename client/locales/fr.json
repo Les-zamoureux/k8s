@@ -1,0 +1,165 @@
+{
+    "my-weed":"Ma Weed",
+    "loading":"Chargement des données en cours...",
+
+    "login":{
+        "title":"Se connecter",
+        "email-or-username":"Adresse mail ou identifiant :",
+        "password-field":"Mot de passe :",
+        "no-account":"Vous n’avez pas de compte ? S’inscrire",
+        "forgotten-password":"J’ai oublié mon mot de passe",
+        "error":"Identifiant ou mot de passe invalide."
+    },
+
+    "sign-in":{
+        "title":"S'inscrire",
+        "already-account":"Vous avez déjà un compte ? Se connecter",
+        "email-field":"Adresse email :",
+        "username-field":"Identifiant :",
+        "confirm-password-field":"Confirmer le mot de passe :",
+        "error":"Création du compte impossible",
+        "email-already-use":"Cet email est déjà utilisée",
+        "username-already-use":"Cet identifiant est déjà utilisée",
+        "password-error":"Les mots de passe sont différents",
+        "password-format":"Le mot de passe doit faire 8 caractères de long et doit posséder au moins une majuscule, un caractère spécial et un chiffre."
+    },
+
+    "forgot-password":{
+        "title":"Mot de pase oublié",
+        "email-sent":"Un email vous a été envoyé à l'adresse renseignée afin de réinitialiser votre mot de passe",
+        "error":"Cet email est associé à aucun compte"
+    },
+
+    "change-password":{
+        "title":"Nouveau mot de passe",
+        "error":"Modification de mot de passe impossible, le lien utilisé est expiré"
+    },
+
+    "verify-account":{
+        "title":"Vérification de votre compte",
+        "description":"Votre adresse email a bien été vérifiée, vous pouvez maintenant accéder à votre compte.",
+        "connection":"Accéder à mon compte",
+        "error":"Vérification du compte impossible, le lien utilisé est expiré"
+    },
+
+    "nav":{
+        "home":"Accueil",
+        "shop":"Boutique",
+        "about":"A propos",
+        "faq":"FAQ",
+        "contact":"Contact",
+        "favorites":"Favoris",
+        "cart":"Panier",
+        "profile":"Profil",
+        "admin":"Portail adminsitrateur"
+    },
+
+    "menu":{
+        "home":"Accueil",
+        "products":"Produits",
+        "faq":"FAQ",
+        "users":"Utilisateurs",
+        "logs":"Logs"
+    },
+
+    "admin":{
+        "title":"Portail administrateur",
+        "products":"Gérer les stocks et produits de MyWeed",
+        "faq":"Créer et organiser les questions et réponses de la FAQ",
+        "users":"Vu d'essemble sur tous les utilisateurs de MyWeed",
+        "logs":"Un aprçu des logs du serveur",
+
+        "add-data":"Ajouter"
+    },
+
+    "home":{
+        "shop":"Achetez de la qualité au meilleur prix",
+        "about":"En savoir plus sur nous et nos produits",
+        "faq":"Réponses aux questions récurrentes",
+        "contact":"Aidez-nous a nous améliorer !"
+    },
+
+    "shop":{
+        "slogan":"La meilleur qualité, aux meilleurs prix",
+        "products":"Produits",
+        "popular-products":"Produits populaires",
+        "products-description":"Nous avons plein de bonnes choses pour vous",
+        "search-product":"Rechercher un produit",
+
+        "filters":{
+            "weed":"Beuh",
+            "hash":"Haschich",
+            "ice-o-lator":"Ice O Lator",
+            "weed-flower":"Fleur de cannabis",
+            "traditional-hash":"Résine traditionnel",
+            "modern-hash":"Résine moderne"
+        }
+    },
+
+    "footer":{
+        "copyrights":"© Copyright 2025 - MyWeed. Tous droits reservés."
+    },
+
+    "product":{
+        "type":"{type} - {category}",
+        "price": "{price} €",
+        "unity":"/ gramme",
+        "price-with-unity":"({price}€ / gramme)",
+        "thc":"THC : {count}%",
+        "cbd":"CBD : {count}%",
+        "add-to-cart":"Ajouter au panier",
+        "buy-now":"Commander maintenant",
+        "quantity-in-g":"Quantité (en gramme) :",
+        "free-delivery":"Livraison gratuite",
+        "delivered-at":"Livraison prévu avant le {date}",
+        "aspects":"Apparance",
+        "flavors":"Saveurs",
+        "effects":"Effets",
+        "ideal-for":"Idéal pour",
+        "reviews":"Commentaires",
+        "global-rank":"Note gobale",
+        "last-reviews":"Derniers commentaires",
+        "write-review":"Laisse un commentaire !",
+        "your-comment":"Ton commentaire",
+        "write-review-detail":"Partage ton avis pour aider les prochains acheteur et pour nous aider à améliorer la qualité de nos produits.",
+        "review-date":"Il y a {date}"
+    },
+
+    "time":{
+        "s":"{time, plural, one {{time} seconde} other {{time} secondes}}",
+        "min":"{time, plural, one {{time} minute} other {{time} minutes}}",
+        "h":"{time, plural, one {{time} heure} other {{time} heures}}",
+        "d":"{time, plural, one {{time} jour} other {{time} jours}}",
+        "m":"{time, plural, one {{time} mois} other {{time} mois}}",
+        "y":"{time, plural, one {{time} an} other {{time} ans}}"
+    },
+
+    "profile":{
+        "delete-account":"Supprimer mon compte",
+        "delete":{
+            "title":"Suppresion du compte",
+            "description":"Êtes-vous sur de vouloir supprimer votre compte ?"
+        },
+        "email" : "Adresse email : ",
+        "username" : "Identifiant : ",
+        "password" : "Mot de passe : ",
+        "old-password" : "Ancien mot de passe : ",
+        "new-password" : "Nouveau mot de passe : ",
+        "confirm-new-password" : "Confirmation du nouveau mot de passe : ",
+        "new-username":"Nouvel identifiant :",
+        "invalid-password":"Le mot de passe est incorrect",
+        "command-history":"Historique des commandes",
+        "username-popup":"Édition de l'identifiant"
+    },
+
+    "commons":{
+        "total":"Total",
+        "send":"Envoyer",
+        "description":"Description",
+        "disconnect":"Déconnexion",
+        "connect":"Connexion",
+        "validate":"Valider",
+        "cancel":"Annuler",
+        "confirm":"Confirmer"
+    }
+}
